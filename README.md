@@ -1,4 +1,5 @@
 # RAUPJC-DZ2
+#Odgovori na 6.zadatak
 
 #Pitanje 1.:
 -Izvođenje je trajalo oko 5 sekundi
