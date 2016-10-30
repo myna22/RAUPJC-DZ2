@@ -1,0 +1,5 @@
+c:\users\marina\documents\visual studio 2015\Projects\dz2\zad1\bin\Debug\zad1.dll
+c:\users\marina\documents\visual studio 2015\Projects\dz2\zad1\bin\Debug\zad1.pdb
+c:\users\marina\documents\visual studio 2015\Projects\dz2\zad1\obj\Debug\zad1.csprojResolveAssemblyReference.cache
+c:\users\marina\documents\visual studio 2015\Projects\dz2\zad1\obj\Debug\zad1.dll
+c:\users\marina\documents\visual studio 2015\Projects\dz2\zad1\obj\Debug\zad1.pdb

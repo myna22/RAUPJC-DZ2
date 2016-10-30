@@ -1,0 +1,5 @@
+C:\Users\Marina\documents\visual studio 2015\Projects\dz2\zad6\bin\Debug\zad6.exe.config
+C:\Users\Marina\documents\visual studio 2015\Projects\dz2\zad6\bin\Debug\zad6.exe
+C:\Users\Marina\documents\visual studio 2015\Projects\dz2\zad6\bin\Debug\zad6.pdb
+C:\Users\Marina\documents\visual studio 2015\Projects\dz2\zad6\obj\Debug\zad6.exe
+C:\Users\Marina\documents\visual studio 2015\Projects\dz2\zad6\obj\Debug\zad6.pdb

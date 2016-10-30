@@ -1,0 +1,6 @@
+c:\users\marina\documents\visual studio 2015\Projects\dz2\zad3_4_5\obj\Debug\zad3_4_5.csprojResolveAssemblyReference.cache
+C:\Users\Marina\documents\visual studio 2015\Projects\dz2\zad3_4_5\bin\Debug\zad3_4_5.exe.config
+C:\Users\Marina\documents\visual studio 2015\Projects\dz2\zad3_4_5\bin\Debug\zad3_4_5.exe
+C:\Users\Marina\documents\visual studio 2015\Projects\dz2\zad3_4_5\bin\Debug\zad3_4_5.pdb
+C:\Users\Marina\documents\visual studio 2015\Projects\dz2\zad3_4_5\obj\Debug\zad3_4_5.exe
+C:\Users\Marina\documents\visual studio 2015\Projects\dz2\zad3_4_5\obj\Debug\zad3_4_5.pdb
